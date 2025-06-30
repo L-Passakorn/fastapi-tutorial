@@ -1,6 +1,8 @@
 # FastAPI Uvicorn Tutorial Project
 
-This is a basic FastAPI project demonstrating a simple API setup with Uvicorn.
+This project is a tutorial on building web APIs with FastAPI and Uvicorn, based on the Real Python tutorial: <mcurl name="Using FastAPI to Build Python Web APIs" url="https://realpython.com/fastapi-python-web-apis/#what-is-fastapi"></mcurl>.
+
+It demonstrates a simple API setup with Uvicorn.
 
 ## Setup
 
